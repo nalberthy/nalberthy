@@ -3,8 +3,8 @@
 I'm Nalberthy, a full stack software developer that loves to work with challenging and creative projects.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nalberthy/)](https://www.linkedin.com/in/nalberthy/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fgomes.robson@gmail.com)](mailto:nalberthyuf@gmail.com)
-[![GitHub Nalberthy](https://img.shields.io/github/followers/robsonfgomes?label=follow&style=social)](https://github.com/nalberthy)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nalberthyuf@gmail.com)](mailto:nalberthyuf@gmail.com)
+[![GitHub Nalberthy](https://img.shields.io/github/followers/nalberthy?label=follow&style=social)](https://github.com/nalberthy)
 <img src="https://img.shields.io/badge/dynamic/json?url=https://api.countapi.xyz/hit/visitor-badge/nalberthy&label=Profile%20Views&query=value" alt="nalberthy's Profile Views">
 
 
